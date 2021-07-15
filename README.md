@@ -3,7 +3,7 @@ Hi All
 I'm Eric 👋🤖
 
 - 📈 I’m interested in Data and Computer Science  
-- 🌱 I’m currently learning and building projects with Python, Java, and SQL
+- 🌱 I’m learning while building projects with Python, Java, and SQL
 - ⚡ My other interests include tabletop games, fantasy novels, video games, and drawing
 - 🗺️ Moving to LA in September!
 
